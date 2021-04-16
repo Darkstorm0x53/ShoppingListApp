@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopListSync</string>
+    <string name="banner1">Welcome</string>
+    <string name="instruct1">Sign in</string>
+    <string name="register">Register</string>
+    <string name="banner2">No Account?\nNo Problem!</string>
+    <string name="hint1">Username</string>
+    <string name="hint2">Password</string>
+    <string name="login">Log In</string>
+    <string name="signupBanner">Sign up method</string>
+    <string name="cancel">cancel</string>
+</resources>

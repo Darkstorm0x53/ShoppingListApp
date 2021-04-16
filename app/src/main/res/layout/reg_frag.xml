@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/bannerS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/signupBanner"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:background="@color/white"
+        />
+
+    <ImageButton
+        android:id="@+id/email"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/bannerS"
+        android:layout_marginLeft="154dp"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="@color/white"
+        android:src="@drawable/ic_email" />
+
+    <ImageButton
+        android:id="@+id/google"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/bannerS"
+        android:src = "@drawable/ic_google"
+        android:backgroundTint="@color/white"
+        android:layout_toRightOf="@+id/email"
+        />
+
+    <Button
+        android:id="@+id/cnclBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/email"
+        android:layout_centerHorizontal="true"
+        android:text="@string/cancel"
+        android:backgroundTint="@color/orange"
+        android:textColor="@color/black"
+        />
+
+</RelativeLayout>
