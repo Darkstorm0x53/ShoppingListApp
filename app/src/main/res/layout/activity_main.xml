@@ -47,8 +47,7 @@
         android:text="@string/hint1"
         android:textSize="18sp"
         android:textColor="@color/black"
-
-         />
+        />
 
     <TextView
         android:id="@+id/hint2"
@@ -119,7 +118,6 @@
         android:layout_below="@+id/editText2"
         android:layout_centerHorizontal="true"
         android:text="@string/login"
-        android:onClick="login"
         android:backgroundTint="@color/blue"
         android:textColor="@color/black"
         />

@@ -10,6 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShopListSync">
         <activity
+            android:name=".AddItem"
+            >
+        </activity>
+        <activity
+            android:name=".DbActivity"
+            android:theme="@style/Theme.ShopListSync.NoActionBar"
+            android:label="Hello There!"
+            >
+        </activity>
+        <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
             >

@@ -9,4 +9,22 @@
     <string name="login">Log In</string>
     <string name="signupBanner">Sign up method</string>
     <string name="cancel">cancel</string>
+    <string name="open_nav_drawer">Open navigation drawer</string>
+    <string name="close_nav_drawer">Close navigation drawer</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="functions">Functions</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="accounts">Accounts</string>
+    <string name="share_list">Share List</string>
+    <string name="logout">Logout</string>
+    <string name="shopping_product">Shopping product</string>
+    <string name="item_title">Item Title</string>
+    <string name="ItemNameHint">Bread</string>
+    <string name="itemQuantity">Item Quantity</string>
+    <string name="ItemQuantityHint">2</string>
+    <string name="ItemNotes">Notes</string>
+    <string name="ItemNotesHint">Bob wants these</string>
+    <string name="confirm">Confirm</string>
+
 </resources>

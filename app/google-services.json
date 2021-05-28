@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230592435129",
+    "project_id": "shoplistsync",
+    "storage_bucket": "shoplistsync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230592435129:android:1e40c197038d075800dc68",
+        "android_client_info": {
+          "package_name": "com.example.shoplistsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230592435129-68s4tuelsmv37j69ufhil0f22s1fhgh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9FdaZLUSGsrETUEEgId1QbZWy1JABn_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230592435129-68s4tuelsmv37j69ufhil0f22s1fhgh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
